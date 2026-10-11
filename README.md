@@ -14,6 +14,6 @@ Portfolio: [davebuilds.vercel.app](https://davebuilds.vercel.app/) · LinkedIn: 
 
 - Merged [Time-Tracker #359](https://github.com/HafidIdrissi/Time-Tracker/pull/359) — isolated right-to-left window titles in report tables with `<bdi dir="auto">`, plus a regression test. Five CI checks, including Windows.
 - Merged [Time-Tracker #338](https://github.com/HafidIdrissi/Time-Tracker/pull/338) — documentation, with a validation script and 96 passing tests.
-- Open [OpsiMate #1148](https://github.com/OpsiMate/OpsiMate/pull/1148) — fixed an action-run metric that counted every success as an error, with a Vitest regression test.
+- Merged [OpsiMate #1148](https://github.com/OpsiMate/OpsiMate/pull/1148) — fixed an action-run metric that counted every success as an error, with a Vitest regression test.
 
 I build with an AI coding agent driven by an AGENTS.md, slice by slice, and I review everything before it ships.
