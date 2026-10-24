@@ -2,7 +2,7 @@
 
 I design and build web apps, and I ship them.
 
-Portfolio: [davebuilds.vercel.app](https://www.davebuilds.design) · LinkedIn: [dave-hennit](https://www.linkedin.com/in/dave-hennit)
+Portfolio: [davebuilds.design](https://www.davebuilds.design) · LinkedIn: [dave-hennit](https://www.linkedin.com/in/dave-hennit)
 
 **Building**
 
