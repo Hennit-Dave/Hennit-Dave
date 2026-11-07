@@ -6,6 +6,8 @@ Portfolio: [davebuilds.design](https://www.davebuilds.design) · LinkedIn: [dave
 
 **Building**
 
+  - [Rota](https://github.com/Hennit-Dave/rota) — React Native + Express shift app: server-side proration, Stripe webhooks, BullMQ jobs, two Postgres shards with read replicas, push notifications, offline mode, k6-tested. [Demo]  (https://lnkd.in/p/dn2k73bD)
+
 - [Freelance Marketplace API](https://github.com/Hennit-Dave/freelancemarketplace-API) — Next.js 14, strict TypeScript, Postgres on Neon, Prisma, Zod. Upstash rate limiting that fails closed with a 503, money stored as integer minor units, automated tests, and a live consumer page.
 - [Job Application Manager](https://github.com/Hennit-Dave/Jobapplicationmanager-assessment-1) — Auth.js v5 with a Prisma adapter, email verification, password reset, rate limiting, and documented design tokens.
 - [Dave Builds](https://github.com/Hennit-Dave/davebuilds) — my portfolio. Vanilla HTML, CSS and JS, with a command palette and an inspect mode.
